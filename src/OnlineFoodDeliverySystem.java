@@ -1,5 +1,3 @@
-
-// OnlineFoodDeliverySystem.java - Main Class with clean, interactive console UI
 import java.util.Scanner;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
